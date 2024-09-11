@@ -5,6 +5,7 @@ metadata:
   name: cool-app-frontend
   annotations:
     github.com/project-slug: djajcevic/cool-app-frontend-acs
+    backstage.io/environment: dev
   tags:
     - react
     - js
