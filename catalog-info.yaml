@@ -16,3 +16,4 @@ spec:
   system: demo
   dependsOn:
     - component:default/cool-app
+    - component:default/cool-app-acr
