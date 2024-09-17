@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: djajcevic/cool-app-frontend-acs
     backstage.io/environment: dev
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/name=cool-app-frontend'
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/name=cool-app'
   tags:
     - react
     - js
